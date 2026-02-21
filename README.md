@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="left">Hi 👋, I'm Cheongha Park, turning imagination into reality.dreams.</h1>
 <h3 align="left">On a mission: challenging the world, growing stronger every day.</h3>
 
